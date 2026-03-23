@@ -4932,6 +4932,11 @@ body.accessibility-widget-visible ._access-menu {
   border-radius: 16px;
 }
 
+#showcase .showcase-tile {
+  border-radius: 16px;
+  overflow: hidden;
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
